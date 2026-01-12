@@ -12,6 +12,7 @@ const pieces = [
     "♖","♘","♗","♕","♔","♗","♘","♖"
 ];
 
+
 let selectedSquare = null;
 
 function createBoard() {
